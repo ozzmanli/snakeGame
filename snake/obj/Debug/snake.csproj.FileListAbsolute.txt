@@ -8,3 +8,13 @@ C:\Users\A549913\source\repos\snake\obj\Debug\snake.csproj.GenerateResource.cach
 C:\Users\A549913\source\repos\snake\obj\Debug\snake.csproj.CoreCompileInputs.cache
 C:\Users\A549913\source\repos\snake\obj\Debug\snake.exe
 C:\Users\A549913\source\repos\snake\obj\Debug\snake.pdb
+C:\Users\A549913\gitHubRepo\snakeGame\snake\bin\Debug\snake.exe.config
+C:\Users\A549913\gitHubRepo\snakeGame\snake\bin\Debug\snake.exe
+C:\Users\A549913\gitHubRepo\snakeGame\snake\bin\Debug\snake.pdb
+C:\Users\A549913\gitHubRepo\snakeGame\snake\obj\Debug\snake.csproj.AssemblyReference.cache
+C:\Users\A549913\gitHubRepo\snakeGame\snake\obj\Debug\Constants.resources
+C:\Users\A549913\gitHubRepo\snakeGame\snake\obj\Debug\snake.Properties.Resources.resources
+C:\Users\A549913\gitHubRepo\snakeGame\snake\obj\Debug\snake.csproj.GenerateResource.cache
+C:\Users\A549913\gitHubRepo\snakeGame\snake\obj\Debug\snake.csproj.CoreCompileInputs.cache
+C:\Users\A549913\gitHubRepo\snakeGame\snake\obj\Debug\snake.exe
+C:\Users\A549913\gitHubRepo\snakeGame\snake\obj\Debug\snake.pdb
